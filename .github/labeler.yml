@@ -1,0 +1,8 @@
+"❗️ migrations":
+  - packages/database/prisma/migrations/**/migration.sql
+
+"🖥️ web":
+  - apps/web/**
+
+"🌐 server":
+  - apps/server/**
